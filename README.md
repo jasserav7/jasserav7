@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Jasser Arrieta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-&nbsp;***About me***
+&nbsp;***Sobre mí***
 
 Soy estudiante de Ingeniería de Sistemas, actualmente en noveno semestre. Mis fortalezas son HTML5, CSS3, JavaScript y Python, también busco nutrirme de conocimiento día a día.
 - 👨🏻‍💻 Actualmente estoy aprendiendo:
