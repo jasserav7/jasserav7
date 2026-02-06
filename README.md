@@ -1,19 +1,19 @@
-<h1 align="center">Hola, soy Jasser Arrieta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Jasser Arrieta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-&nbsp;***Sobre mí***
+&nbsp;***About me***
 
-Soy estudiante de Ingeniería de Sistemas, actualmente en noveno semestre. Mis fortalezas son HTML5, CSS3, JavaScript y Python, también busco nutrirme de conocimiento día a día.
-- 👨🏻‍💻 Actualmente estoy aprendiendo:
+I'm a Systems Engineering student at Universidad de la Costa (CUC) in Barranquilla, Colombia, currently in my ninth semester. My strengths are HTML5, CSS3, JavaScript and Python, and I seek to expand my knowledge every day.
+- 👨🏻‍💻 Currently learning:
   - Node.js
   - PostgreSQL
-- 👉🏼 Me gustaría colaborar en proyectos de código abierto.
-- ✉️ Contáctame en: <a href="jasserav7@gmail.com">jasserav7@gmail.com</a>
+- 👉🏼 I'd like to collaborate on open source projects.
+- ✉️ Contact me at: <a href="jasserav7@gmail.com">jasserav7@gmail.com</a>
 
 
-<h4>Lenguajes</h4>
+<h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,py"/>
 
-<h4>Otras Tecnologías</h4>
+<h4>Other Technologies</h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
