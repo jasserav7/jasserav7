@@ -15,11 +15,11 @@ I'm a Systems Engineering student at Universidad de la Costa (CUC) in Barranquil
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python&theme=dark)](https://skillicons.dev)
 
 ### ⚛️Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs&theme=dark)](https://skillicons.dev)
 
 ### 📝Tools & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,git&theme=dark)](https://skillicons.dev)
 
 ### 💻Software
 
