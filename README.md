@@ -4,8 +4,8 @@
 
 I'm a Systems Engineering student at Universidad de la Costa (CUC) in Barranquilla, Colombia, currently in my ninth semester. My strengths are HTML5, CSS3, JavaScript and Python, and I seek to expand my knowledge every day.
 - 👨🏻‍💻 Currently learning:
-  - Node.js
-  - PostgreSQL
+  - Java + Spring Boot
+  - SQL Server
 - 👉🏼 I'd like to collaborate on open source projects.
 - ✉️ Contact me at: <a href="jasserav7@gmail.com">jasserav7@gmail.com</a>
 
