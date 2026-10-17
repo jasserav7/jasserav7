@@ -5,6 +5,10 @@
   Barranquilla, Colombia 🇨🇴 · Graduating December 2026
 </p>
 
+<p align="center">
+  <a href="https://jasserav7.online"><strong>🌐 jasserav7.online</strong></a>
+</p>
+
 &nbsp;***About me***
 
 I'm a Systems Engineering student finishing my degree at Universidad de la Costa (CUC), with a focus on backend development: REST APIs, relational databases and process automation, mostly with Python and FastAPI.
@@ -15,6 +19,7 @@ I completed a university internship at Banco Serfinanza S.A. (Apr–Oct 2026), w
 - 👨🏻‍💻 Currently learning: Java, Nest.js
 - 👉🏼 I'd like to collaborate on open source projects
 - 🗣️ English B2+ (EF SET C1 Advanced)
+- 🌐 **Portfolio:** [jasserav7.online](https://jasserav7.online)
 - ✉️ Contact me: <a href="mailto:jasserav7@gmail.com">jasserav7@gmail.com</a> · <a href="https://www.linkedin.com/in/jasser-arrieta-784406322/">LinkedIn</a>
 
 &nbsp;
