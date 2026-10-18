@@ -16,7 +16,7 @@ I'm a Systems Engineering student finishing my degree at Universidad de la Costa
 I completed a university internship at Banco Serfinanza S.A. (Apr–Oct 2026), where I worked on frontend and backend development with Python, JavaScript and SQL Server, and contributed to a web application that went to production in September 2026. Outside of work, I build and deploy my own projects, with CI/CD and automated tests.
 
 - 🚀 **Open to work:** Junior Backend / Full-Stack roles (remote or Barranquilla)
-- 👨🏻‍💻 Currently learning: Java, Nest.js
+- 👨🏻‍💻 Currently learning: C#, .NET
 - 👉🏼 I'd like to collaborate on open source projects
 - 🗣️ English B2+ (EF SET C1 Advanced)
 - 🌐 **Portfolio:** [jasserav7.online](https://jasserav7.online)
